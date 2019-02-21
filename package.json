@@ -1,0 +1,17 @@
+{
+  "name": "angular-node-s3-file-upload",
+  "version": "1.0.0",
+  "description": "testing angular 7 upload with kendo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rupam Roy",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.406.0",
+    "express": "^4.16.4",
+    "request": "^2.88.0",
+    "serve-static": "^1.13.2"
+  }
+}
